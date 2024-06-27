@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Card_Gatherer", "Card_Gatherer\Card_Gatherer.pyproj", "{F73D4429-301A-4307-99B2-D2FDC96D0883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73D4429-301A-4307-99B2-D2FDC96D0883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73D4429-301A-4307-99B2-D2FDC96D0883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A458005-299B-4270-9895-531725CB9E31}
+	EndGlobalSection
+EndGlobal
